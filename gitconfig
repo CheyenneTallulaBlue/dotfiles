@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cheyenne@simoleit.com
+	name = cheyenne simoleit
